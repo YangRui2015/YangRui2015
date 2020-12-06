@@ -1,6 +1,6 @@
-### Hi there 👋  ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+### Hi there 👋  
 
-- :school:  grad student at Department of Automation, Tsinghua University.
+- :school:  I'm a grad student at Department of Automation, Tsinghua University.
 - :microscope: mainly study Machine Learning and Reinforcment Learning.
 - :email:  yangrui19@mails.tsinghua.edu.cn.
 - :computer: languages I use
