@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-![](https://img.shields.io/github/stars/YangRui2015?style=social)
+### Hi there 👋  ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
 - :school:  grad student at Department of Automation, Tsinghua University.
 - :microscope: mainly study Machine Learning and Reinforcment Learning.
