@@ -9,8 +9,8 @@
 
 
 <a href="https://github.com/wangsrGit119/audio-translate">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangRui2015&layout=compact" />
-  <img align='right' src='https://github-readme-stats.vercel.app/api?username=YangRui2015&show_icons=true&count_private=true&hide=prs&theme=default_repocard'>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangRui2015&layout=compact" width=40% />
+  <img align='right' src='https://github-readme-stats.vercel.app/api?username=YangRui2015&show_icons=true&count_private=true&hide=prs&theme=default_repocard', width=55%>
 </a>
 
 
