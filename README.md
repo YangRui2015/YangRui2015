@@ -2,8 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 ![](https://img.shields.io/github/stars/YangRui2015?style=social)
-![](https://img.shields.io/github/followers/YangRui2015?style=social)
-- :school: I'm a grad student at Tsinghua University
+- :school:  grad student at Department of Automation, Tsinghua University.
+- :email:  yangrui19@mails.tsinghua.edu.cn.
+- :computer: mainly study Machine Learning and Reinforcment Learning.
 
 ### Languages
 ![](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python)
