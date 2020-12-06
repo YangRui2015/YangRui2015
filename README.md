@@ -3,14 +3,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 ![](https://img.shields.io/github/stars/YangRui2015?style=social)
 - :school:  grad student at Department of Automation, Tsinghua University.
+- :microscope: mainly study Machine Learning and Reinforcment Learning.
 - :email:  yangrui19@mails.tsinghua.edu.cn.
-- :computer: mainly study Machine Learning and Reinforcment Learning.
-
-### Languages
+- :computer: languages I use
 ![](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python)
 ![](https://img.shields.io/badge/-javascript-orange?style=plastic&logo=javascript)
 ![](https://img.shields.io/badge/-html-blue?style=plastic&logo=html5)
 ![](https://img.shields.io/badge/-C++-green?style=plastic&logo=C)
+
 
 
 <a href="https://github.com/wangsrGit119/audio-translate">
