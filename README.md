@@ -2,6 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 ![](https://img.shields.io/github/stars/YangRui2015?style=social)
+
 - :school:  grad student at Department of Automation, Tsinghua University.
 - :microscope: mainly study Machine Learning and Reinforcment Learning.
 - :email:  yangrui19@mails.tsinghua.edu.cn.
@@ -12,10 +13,9 @@
 ![](https://img.shields.io/badge/-C++-green?style=plastic&logo=C)
 
 
-
 <a href="https://github.com/wangsrGit119/audio-translate">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangRui2015&layout=compact" width=40% />
-  <img align='right' src='https://github-readme-stats.vercel.app/api?username=YangRui2015&show_icons=true&count_private=true&hide=prs&theme=default_repocard', width=55%>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangRui2015&layout=compact" width=40% />
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=YangRui2015&show_icons=true&count_private=true&hide=prs&theme=default_repocard', width=55%>
 </a>
 
 
