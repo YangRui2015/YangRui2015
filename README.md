@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://img.shields.io/github/stars/YangRui2015?style=social)
+![](https://img.shields.io/github/followers/YangRui2015?style=social)
+- :school: I'm a grad student at Tsinghua University
+
 ### Languages
 ![](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python)
 ![](https://img.shields.io/badge/-javascript-orange?style=plastic&logo=javascript)
