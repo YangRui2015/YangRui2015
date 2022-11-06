@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- :school:  I'm a grad student at Department of Automation, Tsinghua University.
+- :school:  I'm a grad student at Department of Computer Science and Engineering, HKUST.
 - :microscope: mainly study Machine Learning and Reinforcment Learning.
 - :computer: languages I use
 ![](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python)
