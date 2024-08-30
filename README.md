@@ -1,7 +1,5 @@
 ### Hi there 👋  
 
-- :school:  I'm a grad student at Department of Computer Science and Engineering, HKUST.
-- :microscope: mainly study Machine Learning and Reinforcment Learning.
 
 
 <a href="https://github.com/YangRui2015/Modular_HER">
